@@ -50,18 +50,18 @@ D(Delivery，推广):对如同一个产品生产出来了，我们要如何让�
 | PSP | Personal Software Process Stages | 预估耗时（分钟） |实际耗时（分钟）|
 | -----| ---- | ---- | ---- |
 | Planning | 计划 | 10min |10min|
-|• Estimate | • 估计这个任务需要多少时间 | 10min ||
-|Development | 原型设计 | 8h30min ||
+|• Estimate | • 估计这个任务需要多少时间 | 10min |10min|
+|Development | 原型设计 | 8h30min |9h30min|
 |• Analysis | • 需求分析 | 1h30min |1h|
 |• Discuss | • 结对讨论 | 1h30min |1h30min|
 |• Study | • 学习原型设计工具 | 2h |1h30min|
-|• Design | • 具体设计(原型界面设计) | 3h ||
-|• Design Review | • 设计复审 | 30min ||
-|Reporting |报告 | 3h10min ||
+|• Design | • 具体设计(原型界面设计) | 3h |5h|
+|• Design Review | • 设计复审 | 30min |30min|
+|Reporting |报告 | 3h10min |6h10min|
 |• Test Repor |• 撰写报告 | 2h |5h|
 |• Size Measurement |• 计算工作量 | 10min |10min|
-|• Postmortem & Process Improvement Plan |• 事后总结, 并提出过程改进计划 | 1h ||
-||合计 | 11h50min || 
+|• Postmortem & Process Improvement Plan |• 事后总结, 并提出过程改进计划 | 1h |1h|
+||合计 | 11h50min |15h50min| 
 
 
 ### <span id="2t2">原型地址</spqn>
@@ -74,19 +74,37 @@ D(Delivery，推广):对如同一个产品生产出来了，我们要如何让�
 
 #### <span  id="result">搜索结果页</span>
 
-<a href="https://images.cnblogs.com/cnblogs_com/honghh/1938447/o_2103101032271.png
-" target="_blank" ><img src="https://images.cnblogs.com/cnblogs_com/honghh/1938447/o_2103101032271.png
+<a href="https://images.cnblogs.com/cnblogs_com/honghh/1938447/o_2103111538182.png
+" target="_blank" ><img src="https://images.cnblogs.com/cnblogs_com/honghh/1938447/o_2103111538182.png
 " alt="搜索结果" style=" opacity: 1;"></a>
 
 #### 个人设置页
 
-<a href="https://images.cnblogs.com/cnblogs_com/honghh/1938447/o_2103101032271.png
-" target="_blank"><img src="https://images.cnblogs.com/cnblogs_com/honghh/1938447/o_2103101032271.png
+<a href="https://images.cnblogs.com/cnblogs_com/honghh/1938447/o_2103111538213.png
+" target="_blank"><img src="https://images.cnblogs.com/cnblogs_com/honghh/1938447/o_2103111538213.png
 " alt="个人设置" style=" opacity: 1;"></a>
+
+<a href="https://images.cnblogs.com/cnblogs_com/honghh/1938447/o_2103111538274.png
+" target="_blank"><img src="https://images.cnblogs.com/cnblogs_com/honghh/1938447/o_2103111538274.png
+" alt="个人设置" style=" opacity: 1;"></a>
+
+#### 收藏页
+
+<a href="https://images.cnblogs.com/cnblogs_com/honghh/1938447/o_210311153926%E6%94%B6%E8%97%8F.png
+" target="_blank"><img src="https://images.cnblogs.com/cnblogs_com/honghh/1938447/o_210311153926%E6%94%B6%E8%97%8F.png
+" alt="收藏" style=" opacity: 1;"></a>
+
+#### 论文列表页
+
+<a href="https://images.cnblogs.com/cnblogs_com/honghh/1938447/o_210311153928%E8%AE%BA%E6%96%87%E9%A1%B5%E8%A1%A8.png
+" target="_blank"><img src="https://images.cnblogs.com/cnblogs_com/honghh/1938447/o_210311153928%E8%AE%BA%E6%96%87%E9%A1%B5%E8%A1%A8.png
+" alt="论文列表" style=" opacity: 1;"></a>
+
+#### 登录页
 
 <a href="https://images.cnblogs.com/cnblogs_com/honghh/1938447/o_2103101032271.png
 " target="_blank"><img src="https://images.cnblogs.com/cnblogs_com/honghh/1938447/o_2103101032271.png
-" alt="个人设置" style=" opacity: 1;"></a>
+" alt="首页原型图" style=" opacity: 1;"></a>
 
 #### 基础功能相关介绍
 
@@ -98,19 +116,10 @@ D(Delivery，推广):对如同一个产品生产出来了，我们要如何让�
 
 - 流程：
 
-用户可点击下拉框选择是使用本地搜索还是使用网络搜索
-网络搜索选项示意图：
-<a href="https://images.cnblogs.com/cnblogs_com/honghh/1938447/o_2103101032271.png
-" target="_blank"><img src="https://images.cnblogs.com/cnblogs_com/honghh/1938447/o_2103101032271.png
-" alt="个人设置" style=" opacity: 1;"></a>
-本地搜索选线示意图：
-<a href="https://images.cnblogs.com/cnblogs_com/honghh/1938447/o_2103101032271.png
-" target="_blank"><img src="https://images.cnblogs.com/cnblogs_com/honghh/1938447/o_2103101032271.png
-" alt="个人设置" style=" opacity: 1;"></a>
 用户点击搜索框输入需要查找的论文，网页自动变换:
-<a href="https://images.cnblogs.com/cnblogs_com/honghh/1938447/o_2103101032271.png
-" target="_blank"><img src="https://images.cnblogs.com/cnblogs_com/honghh/1938447/o_2103101032271.png
-" alt="个人设置" style=" opacity: 1;"></a>
+<a href="https://images.cnblogs.com/cnblogs_com/honghh/1938447/t_2103111538315.png?a=1615477410265
+" target="_blank"><img src="https://images.cnblogs.com/cnblogs_com/honghh/1938447/t_2103111538315.png?a=1615477410265
+" alt="搜索" style=" opacity: 1;"></a>
 
 点击搜索后用户便跳转到[搜索结果页](#result):
 
@@ -123,41 +132,50 @@ D(Delivery，推广):对如同一个产品生产出来了，我们要如何让�
 - 流程：
 
 用户点击查看按钮可以查看论文的摘要、关键词、原文链接，即显示查看页
-<a href="https://images.cnblogs.com/cnblogs_com/honghh/1938447/o_2103101032271.png
-" target="_blank"><img src="https://images.cnblogs.com/cnblogs_com/honghh/1938447/o_2103101032271.png
-" alt="个人设置" style=" opacity: 1;"></a>
+<a href="https://images.cnblogs.com/cnblogs_com/honghh/1938447/t_210311153932%E6%9F%A5%E7%9C%8B.png?a=1615478096203
+" target="_blank"><img src="https://images.cnblogs.com/cnblogs_com/honghh/1938447/t_210311153932%E6%9F%A5%E7%9C%8B.png?a=1615478096203
+" alt="摘要、关键词、原文链接" style=" opacity: 1;"></a>
 
 用户点击删除按钮对此条记录进行删除。***注意删除只会在本地记录存在此条信息是才会出现，如是在网络搜索删除键是不会出现***。
 
 是本地文件，本地列表中出现删除键，可点击删除，此时本地列表会移除此条数据
-<a href="https://images.cnblogs.com/cnblogs_com/honghh/1938447/o_2103101032271.png
-" target="_blank"><img src="https://images.cnblogs.com/cnblogs_com/honghh/1938447/o_2103101032271.png
-" alt="个人设置" style=" opacity: 1;"></a>
+<a href="https://images.cnblogs.com/cnblogs_com/honghh/1938447/t_2103111538336.png?a=1615477410265
+" target="_blank"><img src="https://images.cnblogs.com/cnblogs_com/honghh/1938447/t_2103111538336.png?a=1615477410265
+" alt="本地列表中出现删除键" style=" opacity: 1;"></a>
 
 如是网络搜索得到的论文数据，删除键不会显示
-<a href="https://images.cnblogs.com/cnblogs_com/honghh/1938447/o_2103101032271.png
-" target="_blank"><img src="https://images.cnblogs.com/cnblogs_com/honghh/1938447/o_2103101032271.png
-" alt="个人设置" style=" opacity: 1;"></a>
+<a href="https://images.cnblogs.com/cnblogs_com/honghh/1938447/t_2103111538407.png?a=1615477410265
+" target="_blank"><img src="https://images.cnblogs.com/cnblogs_com/honghh/1938447/t_2103111538407.png?a=1615477410265
+" alt="网络搜索" style=" opacity: 1;"></a>
 
 用户可以点击收藏按钮对论文进行收藏，用户可以进入收藏夹中查看用户收藏列表，对于已经收藏的论文显示已收藏，并且显示优先级为最高
-<a href="https://images.cnblogs.com/cnblogs_com/honghh/1938447/o_2103101032271.png
-" target="_blank"><img src="https://images.cnblogs.com/cnblogs_com/honghh/1938447/o_2103101032271.png
-" alt="个人设置" style=" opacity: 1;"></a>
+<a href="https://images.cnblogs.com/cnblogs_com/honghh/1938447/t_2103111538418.png?a=1615477410265
+" target="_blank"><img src="https://images.cnblogs.com/cnblogs_com/honghh/1938447/t_2103111538418.png?a=1615477410265
+" alt="优先级" style=" opacity: 1;"></a>
 
 用户点击“点击进入”可以打开新页面进入论文链接页面查看论文具体内容。
-<a href="https://images.cnblogs.com/cnblogs_com/honghh/1938447/o_2103101032271.png
-" target="_blank"><img src="https://images.cnblogs.com/cnblogs_com/honghh/1938447/o_2103101032271.png
-" alt="个人设置" style=" opacity: 1;"></a>
+<a href="https://images.cnblogs.com/cnblogs_com/honghh/1938447/t_2103111538449.png?a=1615477410265
+" target="_blank"><img src="https://images.cnblogs.com/cnblogs_com/honghh/1938447/t_2103111538449.png?a=1615477410265
+" alt="点击进入" style=" opacity: 1;"></a>
 
 同时用户可以点击选择按钮对多篇论文进行导入，删除，收藏操作。
-<a href="https://images.cnblogs.com/cnblogs_com/honghh/1938447/o_2103101032271.png
-" target="_blank"><img src="https://images.cnblogs.com/cnblogs_com/honghh/1938447/o_2103101032271.png
-" alt="个人设置" style=" opacity: 1;"></a>
+<a href="https://images.cnblogs.com/cnblogs_com/honghh/1938447/t_21031115384910.png?a=1615477410265
+" target="_blank"><img src="https://images.cnblogs.com/cnblogs_com/honghh/1938447/t_21031115384910.png?a=1615477410265
+" alt="多篇论文" style=" opacity: 1;"></a>
+
+<a href="https://images.cnblogs.com/cnblogs_com/honghh/1938447/t_21031115385111.png?a=1615477410265
+" target="_blank"><img src="https://images.cnblogs.com/cnblogs_com/honghh/1938447/t_21031115385111.png?a=1615477410265
+" alt="多篇论文" style=" opacity: 1;"></a>
 
 通过点击统计表分析按钮，可以统计涉及到的文章并对文章标签进行分类，以折现图形式展示出来。
-<a href="https://images.cnblogs.com/cnblogs_com/honghh/1938447/o_2103101032271.png
-" target="_blank"><img src="https://images.cnblogs.com/cnblogs_com/honghh/1938447/o_2103101032271.png
-" alt="个人设置" style=" opacity: 1;"></a>
+
+<a href="https://images.cnblogs.com/cnblogs_com/honghh/1938447/t_21031115385412.png?a=1615477410265
+" target="_blank"><img src="https://images.cnblogs.com/cnblogs_com/honghh/1938447/t_21031115385412.png?a=1615477410265
+" alt="折现图" style=" opacity: 1;"></a>
+
+<a href="https://images.cnblogs.com/cnblogs_com/honghh/1938447/t_21031115385613.png?a=1615477410265
+" target="_blank"><img src="https://images.cnblogs.com/cnblogs_com/honghh/1938447/t_21031115385613.png?a=1615477410265
+" alt="折现图" style=" opacity: 1;"></a>
 
 **3. 标签**
 
@@ -169,14 +187,14 @@ D(Delivery，推广):对如同一个产品生产出来了，我们要如何让�
 
 用户可以在主界面点击推荐标签，点击标签后系统根据标签在本地和网络列表中查询与标签相关论文，跳转到[搜索结果页](#result)
 
-<a href="https://images.cnblogs.com/cnblogs_com/honghh/1938447/o_2103101032271.png
-" target="_blank"><img src="https://images.cnblogs.com/cnblogs_com/honghh/1938447/o_2103101032271.png
-" alt="个人设置" style=" opacity: 1;"></a>
+<a href="https://images.cnblogs.com/cnblogs_com/honghh/1938447/t_21031115385814.png?a=1615477410265
+" target="_blank"><img src="https://images.cnblogs.com/cnblogs_com/honghh/1938447/t_21031115385814.png?a=1615477410265
+" alt="推荐标签" style=" opacity: 1;"></a>
 
 用户可点击热词分析的标签，热词分析是通过分析本地列表常见标签显示top10个标签进行显示，点击后跳转至[搜索结果页](#result)
-<a href="https://images.cnblogs.com/cnblogs_com/honghh/1938447/o_2103101032271.png
-" target="_blank"><img src="https://images.cnblogs.com/cnblogs_com/honghh/1938447/o_2103101032271.png
-" alt="个人设置" style=" opacity: 1;"></a>
+<a href="https://images.cnblogs.com/cnblogs_com/honghh/1938447/t_21031115390315.png?a=1615477410265
+" target="_blank"><img src="https://images.cnblogs.com/cnblogs_com/honghh/1938447/t_21031115390315.png?a=1615477410265
+" alt="热词分析的标签" style=" opacity: 1;"></a>
 
 **4. 论文导入**
 
@@ -186,12 +204,30 @@ D(Delivery，推广):对如同一个产品生产出来了，我们要如何让�
 
 - 流程：
 
-用户点击论文导入按钮，网页跳转至[编辑页面](),用户可以为该论文填写关键词，论文的摘要。点击确认按钮，论文将会上传到服务器中，下次在此进入时可以在论文列表中发现并打开该篇论文。
+用户点击论文导入按钮，网页可弹出编辑框。点击确认按钮，论文将会上传到服务器中，下次在此进入时可以在论文列表中发现并打开该篇论文。
+
+<a href="https://images.cnblogs.com/cnblogs_com/honghh/1938447/t_210311153911%E8%AE%BA%E6%96%87%E5%AF%BC%E5%85%A5.png?a=1615477410265
+" target="_blank"><img src="https://images.cnblogs.com/cnblogs_com/honghh/1938447/t_210311153911%E8%AE%BA%E6%96%87%E5%AF%BC%E5%85%A5.png?a=1615477410265
+" alt="论文导入" style=" opacity: 1;"></a>
+
+
+<a href="https://images.cnblogs.com/cnblogs_com/honghh/1938447/t_210311153914%E8%AE%BA%E6%96%87%E5%AF%BC%E5%85%A52.png?a=1615477410265
+" target="_blank"><img src="https://images.cnblogs.com/cnblogs_com/honghh/1938447/t_210311153914%E8%AE%BA%E6%96%87%E5%AF%BC%E5%85%A52.png?a=1615477410265
+" alt="论文导入" style=" opacity: 1;"></a>
 
 **5. 图表分析**
 
-- 介绍:由于
+- 介绍:
+ 
+由于希望用户可以直观地看出近几年大会热词的情况分析图。系统根据分析统计出热词的出现次数做出了分析。
 
+- 流程：
+  
+用户在首页下便可看到具体分析的饼图和折线图。
+
+<a href="https://images.cnblogs.com/cnblogs_com/honghh/1938447/t_210311153906%E5%9B%BE%E6%A0%87%E5%88%86%E6%9E%90.png?a=1615477410265
+" target="_blank"><img src="https://images.cnblogs.com/cnblogs_com/honghh/1938447/t_210311153906%E5%9B%BE%E6%A0%87%E5%88%86%E6%9E%90.png?a=1615477410265
+" alt="图表分析" style=" opacity: 1;"></a>
 
 **6. 个人信息**
 
@@ -202,9 +238,61 @@ D(Delivery，推广):对如同一个产品生产出来了，我们要如何让�
 
 用户根据自己喜爱的顺序填写信息，需要注意的时昵称不能为空或是重复。最后点击保存即可修改个人的基本资料。
 
-<a href="https://images.cnblogs.com/cnblogs_com/honghh/1938447/o_2103101032271.png
-" target="_blank"><img src="https://images.cnblogs.com/cnblogs_com/honghh/1938447/o_2103101032271.png
-" alt="个人设置" style=" opacity: 1;"></a>
+<a href="https://images.cnblogs.com/cnblogs_com/honghh/1938447/t_210311153917%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99.png?a=1615477410265
+" target="_blank"><img src="https://images.cnblogs.com/cnblogs_com/honghh/1938447/t_210311153917%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99.png?a=1615477410265
+" alt="个人信息" style=" opacity: 1;"></a>
+
+<a href="https://images.cnblogs.com/cnblogs_com/honghh/1938447/t_210311153924%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%992.png?a=1615477410265
+" target="_blank"><img src="https://images.cnblogs.com/cnblogs_com/honghh/1938447/t_210311153924%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%992.png?a=1615477410265
+" alt="个人信息" style=" opacity: 1;"></a>
+
+**7. 收藏页相关**
+
+- 介绍:
+ 
+为了让用户能够收藏论文以便于下一次再次浏览时能够快速找到，同时需要对已收藏的论文进行取消
+
+- 流程：
+
+用户进入收藏列表中才可以选择取消收藏
+
+<a href="https://images.cnblogs.com/cnblogs_com/honghh/1938447/t_210311153926%E6%94%B6%E8%97%8F.png?a=1615477989556
+" target="_blank"><img src="https://images.cnblogs.com/cnblogs_com/honghh/1938447/t_210311153926%E6%94%B6%E8%97%8F.png?a=1615477989556
+" alt="收藏页相关" style=" opacity: 1;"></a>
+
+**8. 论文列表相关**
+
+- 介绍:
+ 
+用户可以在论文列表页面进行对已经导入本地列表的论文进行查看，收藏，修改，删除操作。
+
+- 流程：
+
+论文列表查看:
+
+<a href="https://images.cnblogs.com/cnblogs_com/honghh/1938447/t_210311153932%E6%9F%A5%E7%9C%8B.png?a=1615478096203
+" target="_blank"><img src="https://images.cnblogs.com/cnblogs_com/honghh/1938447/t_210311153932%E6%9F%A5%E7%9C%8B.png?a=1615478096203
+" alt="列表查看" style=" opacity: 1;"></a>
+
+论文列表收藏点击收藏键即可：
+
+<a href="https://images.cnblogs.com/cnblogs_com/honghh/1938447/t_210311155759%E6%94%B6%E8%97%8F1.png
+" target="_blank"><img src="https://images.cnblogs.com/cnblogs_com/honghh/1938447/t_210311155759%E6%94%B6%E8%97%8F1.png
+" alt="列表收藏" style=" opacity: 1;"></a>
+
+论文列表修改:
+
+
+<a href="https://images.cnblogs.com/cnblogs_com/honghh/1938447/t_210311153935%E4%BF%AE%E6%94%B9.png?a=1615478096203
+" target="_blank"><img src="https://images.cnblogs.com/cnblogs_com/honghh/1938447/t_210311153935%E4%BF%AE%E6%94%B9.png?a=1615478096203
+" alt="列表修改" style=" opacity: 1;"></a>
+
+论文列表删除:
+
+<a href="https://images.cnblogs.com/cnblogs_com/honghh/1938447/t_210311155643%E5%88%A0%E9%99%A4.png
+" target="_blank"><img src="https://images.cnblogs.com/cnblogs_com/honghh/1938447/t_210311155643%E5%88%A0%E9%99%A4.png
+" alt="列表删除" style=" opacity: 1;"></a>
+
 
 ### <space id="2t3_5">设计思路</span>
 
